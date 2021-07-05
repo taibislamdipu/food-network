@@ -17,6 +17,14 @@ body{
     color: #757575;
 }
 
+.green-color{
+    color: #A8C429;
+}
+
+a{
+    text-decoration: none;
+}
+
 section{
     margin-bottom: 100px;
     /* background-color: lightblue; */
@@ -154,3 +162,42 @@ ul {
     background-color: #04AA6D;
   }
 
+  .newsletter{
+      /* background-image: url(../images/food/mix-vegetables.png); */
+      background-image: url(../images/food/mix-veg2.jpg);
+      height: 500px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+  }
+
+  .newsletter-content{
+      width: 60%;
+      color: white;
+      font-size: 35px;
+      margin-left: 5%;
+      padding-top: 10px;
+  }
+
+.email-input{
+    height: 50px;
+    width: 40%;
+    font-size: 18px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.newsletter-submit-btn{
+    padding: 10px 40px;
+    background-color: #A8C429;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0px 0px 12px 0px rgba(255,255,255,1);
+    cursor: pointer;
+
+}
+
+small{
+    font-size: 12px;
+}
