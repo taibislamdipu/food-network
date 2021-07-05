@@ -9,9 +9,18 @@ body{
     color: orange;
 }
 
+.gray-color{
+    color: #757575;
+}
+
+section{
+    margin-bottom: 100px;
+    /* background-color: lightblue; */
+}
+
 .flex-section{
     display: flex;
-    margin-top: 40px;
+    /* margin-top: 40px; */
     margin-bottom: 40px;
 }
 
@@ -33,8 +42,6 @@ body{
 
 .subheading{
     padding-bottom: 50px;
-    color: #757575;
-
 }
 
 .half-width img{
@@ -103,3 +110,14 @@ body{
     margin-right: 5%;
     
 }
+
+footer{
+    background-color: #0B0D17;
+    height: 200px;
+    text-align: center;
+}
+
+footer h5{
+    color: white;
+}
+
