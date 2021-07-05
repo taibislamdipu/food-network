@@ -2,4 +2,55 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+.orange-color{
+    color: orange;
+}
+
+section{
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.half-width h1{
+    font-size: 60px;
+    /* font-weight: bold; */
+    line-height: 5px;
+    color: #6C6C6C;
+}
+
+.subheading{
+    padding-bottom: 50px;
+    color: #757575;
+
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.orange-gradient-btn{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(to right, #FBA24F, #EE4729);
+    padding: 15px 30px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 12px 11px rgb(250, 228, 215);
+    width: 20%;
+    text-align: center;
+
 }
