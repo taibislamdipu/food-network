@@ -13,4 +13,4 @@ This site is static and irresponsive. It's was build for a study purpose.
  
 ##
 
-![alt preview](https://i.imgur.com/QkYX4LE.gifv)
+![alt preview](https://i.imgur.com/6Oom3JN.gif)
