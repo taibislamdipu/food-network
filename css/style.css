@@ -34,6 +34,11 @@ section{
     margin-bottom: 40px;
 }
 
+nav{
+    position: sticky;
+    top: 0;
+}
+
 .half-width{
     width: 50%;
     margin-left: 5%;
